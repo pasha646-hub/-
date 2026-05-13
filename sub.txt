@@ -1479,7 +1479,7 @@
         "realitySettings": {
           "serverName": "ads.x5.ru",
           "publicKey": "cm5i4lf4BQ_RI7whMEAaAUBtFohi7cHpnLAyHpFEzQE",
-          "shortId": "ad46151c673b",
+          "shortId": "2596118e",
           "fingerprint": "chrome"
         }
       }
