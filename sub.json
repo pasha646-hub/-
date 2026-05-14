@@ -1,1 +1,128 @@
-
+{
+  "version": "1.0.0",
+  "servers": [
+    {
+      "tag": "🇷🇺 Россия #1 | XHTTP",
+      "server": "84.201.177.224",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "1708c325-a007-49a9-8b47-e98435ac9165",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "ads.x5.ru",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "cm5i4lf4BQ_RI7whMEAaAUBtFohi7cHpnLAyHpFEzQE",
+          "short_id": "f8"
+        }
+      },
+      "transport": {
+        "type": "http",
+        "path": "/api",
+        "method": "PUT",
+        "max_early_data": 0
+      }
+    },
+    {
+      "tag": "🇷🇺 Россия #3 | gRPC",
+      "server": "46.182.24.124",
+      "server_port": 443,
+      "type": "vless",
+      "uuid": "1708c325-a007-49a9-8b47-e98435ac9165",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "ads.x5.ru",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "hA3ufP67mdJFe-93KqTD1lF2b7RW8VAnp0bZQ_p_E1U"
+        }
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": ""
+      }
+    },
+    {
+      "tag": "🇵🇱 Польша | gRPC",
+      "server": "158.160.145.83",
+      "server_port": 8443,
+      "type": "vless",
+      "uuid": "1708c325-a007-49a9-8b47-e98435ac9165",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "ads.x5.ru",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "nKTRLqiBIOM9ieAwyrVJzbyMgRaiy_S8iJ_eflN1iUU"
+        }
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": ""
+      }
+    },
+    {
+      "tag": "🇷🇺 Russia Priority | TCP",
+      "server": "84.201.133.55",
+      "server_port": 8443,
+      "type": "vless",
+      "uuid": "1708c325-a007-49a9-8b47-e98435ac9165",
+      "flow": "xtls-rprx-vision",
+      "tls": {
+        "enabled": true,
+        "server_name": "ads.x5.ru",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_70spwalv7igl6UDVfWKaQFyEuA_MZeuadHgVgQV93k"
+        }
+      },
+      "transport": {
+        "type": "tcp"
+      }
+    },
+    {
+      "tag": "🇱🇹 Литва — YouTube",
+      "server": "lt2.maps-yandex.net",
+      "server_port": 22231,
+      "type": "vless",
+      "uuid": "88da5936-366c-467c-9094-848edb82c199",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "apple.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "qq"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "E-9l9PMGwPKHbnywXnuZQ6Qqt_HR6HQDLiEA7GBzSDc",
+          "short_id": "a5e63a14efad45c2"
+        }
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "api"
+      }
+    }
+  ]
+}
