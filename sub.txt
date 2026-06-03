@@ -10,7 +10,7 @@ vless://1708c325-a007-49a9-8b47-e98435ac9165@84.201.181.200:443?encryption=none&
 
 vless://1708c325-a007-49a9-8b47-e98435ac9165@46.182.24.124:443?encryption=none&security=reality&sni=ads.x5.ru&fp=edge&pbk=hA3ufP67mdJFe-93KqTD1lF2b7RW8VAnp0bZQ_p_E1U&type=grpc&mode=multi#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%233%20%7C%20%D0%91%D0%B5%D0%BB%D1%8B%D0%B9%20%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA
 
-vless://1708c325-a007-49a9-8b47-e98435ac9165@84.201.176.93:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=MYiaerSxGMvZejSUPo0X0tF-cJzEbczPPtDt-Jbo5UE&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%234%20%7C%20%D0%91%D0%B5%D0%BB%D1%8B%D0%B9%20%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA
+vless://1708c325-a007-49a9-8b47-e98435ac9165@cdn2.novaxbot.site:443?encryption=none&security=tls&sni=cdn2.novaxbot.site&fp=firefox&alpn=h2%2Chttp%2F1%2E1&type=xhttp&mode=packet-up&host=cdn2.novaxbot.site&path=%2Fpoll#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%234%20%7C%20%D0%91%D0%B5%D0%BB%D1%8B%D0%B9%20%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA
 
 vless://1708c325-a007-49a9-8b47-e98435ac9165@51.250.44.15:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&fp=chrome&pbk=iAVdNYlfxiijr5lvxTcjs9SjLQnB65LoZoW8T2o-hW8&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%235%20%7C%20%D0%91%D0%B5%D0%BB%D1%8B%D0%B9%20%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA
 
