@@ -12,20 +12,18 @@ vless://4f496669-8b0f-4bb8-a10a-77f46ed9eded@cdn-yandex.24onclick.ru:443?encrypt
 
 vless://4f496669-8b0f-4bb8-a10a-77f46ed9eded@top1847871446.mwscdn.ru:443?encryption=none&security=tls&sni=top1847871446.mwscdn.ru&fp=firefox&type=xhttp&mode=auto&path=%2Fstatic-cdn#%F0%9F%87%B7%F0%9F%87%BA%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20LTE%20%234
 
-vless://1708c325-a007-49a9-8b47-e98435ac9165@top269883911.mwscdn.ru:443?encryption=none&security=tls&sni=top269883911.mwscdn.ru&fp=firefox&alpn=h2%2Chttp%2F1%2E1&type=xhttp&mode=auto&host=top269883911.mwscdn.ru&path=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%87%AA%F0%9F%87%BA%20Priority%20%231
+vless://1708c325-a007-49a9-8b47-e98435ac9165@top269883911.mwscdn.ru:443?encryption=none&security=tls&sni=top269883911.mwscdn.ru&fp=firefox&alpn=h2%2Chttp%2F1%2E1&type=xhttp&mode=auto&host=top269883911.mwscdn.ru&path=%2F#%F0%9F%87%B7%F0%9F%87%BA%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20LTE%20%235
 
-vless://1708c325-a007-49a9-8b47-e98435ac9165@top73866325.mwscdn.ru:443?encryption=none&security=tls&sni=top73866325.mwscdn.ru&fp=firefox&alpn=h2%2Chttp%2F1%2E1&type=xhttp&mode=auto&host=top73866325.mwscdn.ru&path=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%87%AA%F0%9F%87%BA%20Priority%20%232
+vless://1708c325-a007-49a9-8b47-e98435ac9165@top73866325.mwscdn.ru:443?encryption=none&security=tls&sni=top73866325.mwscdn.ru&fp=firefox&alpn=h2%2Chttp%2F1%2E1&type=xhttp&mode=auto&host=top73866325.mwscdn.ru&path=%2F#%F0%9F%87%B7%F0%9F%87%BA%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20LTE%20%236
 
-vless://1708c325-a007-49a9-8b47-e98435ac9165@cloudgame.novaxbot.site:443?encryption=none&security=tls&sni=cloudgame.novaxbot.site&fp=firefox&alpn=h2%2Chttp%2F1%2E1&type=xhttp&mode=auto&host=cloudgame.novaxbot.site&path=%2F#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%2310%20%7C%20%D0%91%D0%B5%D0%BB%D1%8B%D0%B9%20%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA
+vless://1708c325-a007-49a9-8b47-e98435ac9165@cloudgame.novaxbot.site:443?encryption=none&security=tls&sni=cloudgame.novaxbot.site&fp=firefox&alpn=h2%2Chttp%2F1%2E1&type=xhttp&mode=auto&host=cloudgame.novaxbot.site&path=%2F#%F0%9F%87%B7%F0%9F%87%BA%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20LTE%20%237
 
-vless://1708c325-a007-49a9-8b47-e98435ac9165@selectel-cdn.smart-globus.ru:443?encryption=none&security=reality&sni=selectel-cdn.smart-globus.ru&fp=firefox&pbk=HEzwG_iCIiPk7eAOslHBObKOVePnU7R1SF-aMu-DbCU&type=grpc&mode=multi#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%233%20%7C%20%D0%91%D0%B5%D0%BB%D1%8B%D0%B9%20%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA
+vless://1708c325-a007-49a9-8b47-e98435ac9165@selectel-cdn.smart-globus.ru:443?encryption=none&security=reality&sni=selectel-cdn.smart-globus.ru&fp=firefox&pbk=HEzwG_iCIiPk7eAOslHBObKOVePnU7R1SF-aMu-DbCU&type=grpc&mode=multi#%F0%9F%87%B7%F0%9F%87%BA%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20LTE%20%238
 
-vless://1708c325-a007-49a9-8b47-e98435ac9165@cdn2.novaxbot.site:443?encryption=none&security=tls&sni=cdn2.novaxbot.site&fp=firefox&alpn=h2%2Chttp%2F1%2E1&type=xhttp&mode=packet-up&host=cdn2.novaxbot.site&path=%2Fpoll#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%234%20%7C%20%D0%91%D0%B5%D0%BB%D1%8B%D0%B9%20%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA
+vless://1708c325-a007-49a9-8b47-e98435ac9165@cdn2.novaxbot.site:443?encryption=none&security=tls&sni=cdn2.novaxbot.site&fp=firefox&alpn=h2%2Chttp%2F1%2E1&type=xhttp&mode=packet-up&host=cdn2.novaxbot.site&path=%2Fpoll#%F0%9F%87%B7%F0%9F%87%BA%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20LTE%20%239
 
-hysteria://api.allureops.org:54183?auth=88da5936-366c-467c-9094-848edb82c199&insecure=0&upmbps=100&downmbps=100&protocol=udp&obfs=none&sni=api.allureops.org&alpn=h3#%F0%9F%87%AA%F0%9F%87%BA%20Hysteria
+hysteria://api.allureops.org:54183?auth=88da5936-366c-467c-9094-848edb82c199&insecure=0&upmbps=100&downmbps=100&protocol=udp&obfs=none&sni=api.allureops.org&alpn=h3#%F0%9F%87%AA%F0%9F%87%BA%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20LTE%20%2310
 
-vless://88da5936-366c-467c-9094-848edb82c199@3raf.nexttranstale.app:47102?encryption=none&security=reality&sni=icloud.com&fp=qq&pbk=pGzh3GwmrF0mOYuWf9N6J0xXtecBJGgeRN0c8s9iWVg&sid=d9732805fad8d42c&type=grpc&serviceName=auth&mode=multi#%F0%9F%87%B1%F0%9F%87%B9%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20LTE%20%235
+vless://88da5936-366c-467c-9094-848edb82c199@3raf.nexttranstale.app:47102?encryption=none&security=reality&sni=icloud.com&fp=qq&pbk=pGzh3GwmrF0mOYuWf9N6J0xXtecBJGgeRN0c8s9iWVg&sid=d9732805fad8d42c&type=grpc&serviceName=auth&mode=multi#%F0%9F%87%B1%F0%9F%87%B9%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20LTE%20%2311
 
-vless://88da5936-366c-467c-9094-848edb82c199@lt2.maps-yandex.net:22231?encryption=none&security=reality&sni=apple.com&fp=qq&pbk=E-9l9PMGwPKHbnywXnuZQ6Qqt_HR6HQDLiEA7GBzSDc&sid=a5e63a14efad45c2&type=grpc&serviceName=api&mode=multi#%F0%9F%87%B1%F0%9F%87%B9%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20LTE%20%236
-
-vless://88da5936-366c-467c-9094-848edb82c199@u-panel2.selectel.me:18182?encryption=none&security=reality&sni=apple.com&fp=qq&pbk=N2Qzmjzw8rl8v3_h6nED8dzc-ZlqFLpAd9T0DmsAy1E&sid=ab52cfc0627ba4e0&type=grpc&serviceName=api&mode=multi#%F0%9F%87%BA%F0%9F%87%B8%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20LTE%20%237
+vless://88da5936-366c-467c-9094-848edb82c199@lt2.maps-yandex.net:22231?encryption=none&security=reality&sni=apple.com&fp=qq&pbk=E-9l9PMGwPKHbnywXnuZQ6Qqt_HR6HQDLiEA7GBzSDc&sid=a5e63a14efad45c2&type=grpc&serviceName=api&mode=multi#%F0%9F%87%B1%F0%9F%87%B9%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20LTE%20%2312
